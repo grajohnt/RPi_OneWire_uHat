@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Connector_Samtec_HLE_SMD-ML)(type KiCad)(uri ${KIPRJMOD}/footprints/Connector_Samtec_HLE_SMD-ML.pretty)(options "")(descr ""))
+  (lib (name RPi_Hat)(type KiCad)(uri C:/Users/John/git/RPi_Hat.pretty)(options "")(descr ""))
 )

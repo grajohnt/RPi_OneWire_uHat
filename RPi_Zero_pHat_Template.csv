@@ -1,0 +1,5 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"4.7K";;;
+2;"J4,J5,J3,J2";"TerminalBlock_bornier-3_P5.08mm";4;"Screw_Terminal_01x03";;;
+3;"J1";"PinHeader_2x20_P2.54mm_Vertical";1;"RPi_GPIO";;;
+4;",,,";"RPi_Hat_Mounting_Hole";4;"";;;
